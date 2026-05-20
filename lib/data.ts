@@ -27,7 +27,7 @@ export const stats = [
 export const internship = {
   company: "SAP",
   role: "Software Engineering Intern",
-  period: "Jan 2025 — 6 Jul 2026",
+  period: "12 Jan 2026 — 6 Jul 2026",
   location: "Bengaluru, India",
   description: "",
   bullets: [
